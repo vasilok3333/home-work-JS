@@ -1,0 +1,13 @@
+.container {
+    max-width: 960px;
+    margin: 100px auto;
+}
+
+hr {
+    margin: 50px 0;
+}
+
+.class-work,
+.home-work {
+    text-align: center;
+}
